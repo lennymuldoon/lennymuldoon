@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lennymuldoon
 - 👀 I’m interested in Programming, Weightlifting, and Board Games
-- 🌱 I’m currently learning Java, C# with Unity, python, and C++
+- 🌱 I’m currently learning Java, Unreal Engine, python, and C++
 - 📫 How to reach me lenny.muldoon@gmail.com
 
 <!---
