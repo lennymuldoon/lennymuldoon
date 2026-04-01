@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lennymuldoon
-- 👀 I’m interested in Programming, Weightlifting, and Board Games
-- 🌱 I’m currently learning Java, Unreal Engine, python, and C++
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning Java, SQL, React, Next JS
 - 📫 How to reach me lenny.muldoon@gmail.com
 
 <!---
